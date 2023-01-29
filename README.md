@@ -1,7 +1,7 @@
 ### Olá, me chamo Guilherme Truta
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/guitrutar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitrutar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block">
