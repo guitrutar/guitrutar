@@ -13,5 +13,4 @@
 </div><br>
   
 - 🔭 Atualmente estudando Front-End
-- 🚀 "Sonhar e nunca desistir"
-- 🧸 Apelido: Gume
+- ✨ 13 Anos
