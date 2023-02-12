@@ -1,4 +1,4 @@
-### Olá, me chamo Guilherme Truta
+<h1 align="center">Hello, I'm Guilherme Truta</h1>
 
 <div>
   <a href="https://github.com/guitrutar">
