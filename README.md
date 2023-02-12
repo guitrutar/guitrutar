@@ -9,5 +9,5 @@
   <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
   
-  <p style="font-size: 1.2em">📚 Studying Front-End</p><br>
-  <p style="font-size: 1.2em">🎆 13 years</p>
+  <p align="center" style="font-size: 1.2em">📚 Studying Front-End</p><br>
+  <p align="center" style="font-size: 1.2em">🎆 13 years</p>
